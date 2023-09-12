@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ff6df28aa3bfe145",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/技巧.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技巧.md",
+                "file": "Python/技巧.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技巧.md",
+                "file": "Python/技巧.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技巧.md"
+                "file": "Python/技巧.md"
               }
             }
           },
@@ -155,12 +168,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "987b4469ecfed559",
+  "active": "ff6df28aa3bfe145",
   "lastOpenFiles": [
     "技巧.md",
+    "Python/技巧.md",
+    "Python",
     "记录.md",
     "杂记/markdown语法.md",
-    "未命名",
     "杂记"
   ]
 }
